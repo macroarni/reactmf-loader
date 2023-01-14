@@ -23,12 +23,7 @@
     "sourceMap": false,
     "types": ["reflect-metadata", "node"],
     "allowJs": true,
-    "forceConsistentCasingInFileNames": false,
-    "plugins": [
-      {
-        "name": "typescript-plugin-css-modules"
-      }
-    ]
+    "forceConsistentCasingInFileNames": false
   },
   "include": ["src"],
   "exclude": ["node_modules", "lib"]
